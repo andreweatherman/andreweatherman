@@ -18,7 +18,7 @@ andrew <- list(
 
 ### My current work:
 - Developing [`cbbdata`](https://cbbdata.aweatherman.com), a Flask-based API servicing 16 years of college basketball data + an accompanying R package.
-- [Creating college basketball visualizations](https://aweatherman.com/viz) for my Twitter audience
+- [Creating college basketball visualizations](https://aweatherman.com/) for my Twitter audience
 
 ### My toolbox:
 <p align="center">
