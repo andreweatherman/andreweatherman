@@ -1,11 +1,10 @@
 <h2> Hi, I'm Andrew Weatherman! <img src="https://media2.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif?cid=ecf05e47zfc7rf27qsdfw0nnqcb9uwj0si5yifzqwa04t3mz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://drive.google.com/file/d/1As44QUEhdbHhu9iyJcSrd5Y9k1EpIAiF/view?usp=sharing" width="230">
+<img align='right' src="andrew_cooper.png" width="230">
 <p><em>Mathematics student at the <a href="https://www.charlotte.edu">University of North Carolina at Charlotte</a></br>Public Policy alumnus of <a href="https://duke.edu">Duke University</a></br>Former student manager for <a href="https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html">Duke Men's Basketball</a></em></p>
 
 [![Twitter: andreweatherman](https://img.shields.io/twitter/follow/andreweatherman?style=social)](https://twitter.com/andreweatherman)
 [![Linkedin: andreweatherman](https://img.shields.io/badge/-andreweatherman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreweatherman/)](https:/www.linkedin.com/in/andreweatherman/)
-[![GitHub andreweatherman](https://img.shields.io/github/followers/andreweatherman?label=follow&style=social)](https://github.com/andreweatherman)
-![](https://komarev.com/ghpvc/?username=andreweatherman&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=andreweatherman&style=flat-square)
 
 ```r
 andrew <- list(
