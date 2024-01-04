@@ -17,7 +17,9 @@ andrew <- list(
 ```
 
 ### My current work:
+- Finishing a mathematics degree at UNC Charlotte.
 - Developing [`cbbdata`](https://cbbdata.aweatherman.com), a Flask-based API servicing 16 years of college basketball data + an accompanying R package.
+- Developing [`cbbplotR`](https://cbbplotr.aweatherman.com/articles/getting_started.html), an R package offering `ggplot2` geoms, scales, and elements + `gt` utility functions for plotting college basketball team and conference logos + player headshots.
 - [Creating college basketball visualizations](https://aweatherman.com/) for my Twitter audience
 - [Writing a blog](https://aweatherman.substack.com) with visualization and analysis walk-throughs and code
 
