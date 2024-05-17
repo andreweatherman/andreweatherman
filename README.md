@@ -1,6 +1,6 @@
 <h2> Hi, I'm Andrew Weatherman! <img src="https://media2.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif?cid=ecf05e47zfc7rf27qsdfw0nnqcb9uwj0si5yifzqwa04t3mz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="andrew_cooper.png" width="230">
-<p><em>Mathematics student at the <a href="https://www.charlotte.edu">University of North Carolina at Charlotte</a></br>Public Policy alumnus of <a href="https://duke.edu">Duke University</a></br>Former student manager for <a href="https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html">Duke Men's Basketball</a></em></p>
+<p><em>Public Policy alumnus of <a href="https://duke.edu">Duke University</a></br>Former student manager for <a href="https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html">Duke Men's Basketball</a></em></p>
 
 [![Twitter: andreweatherman](https://img.shields.io/twitter/follow/andreweatherman?style=social)](https://twitter.com/andreweatherman)
 [![Linkedin: andreweatherman](https://img.shields.io/badge/-andreweatherman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreweatherman/)](https:/www.linkedin.com/in/andreweatherman/)
@@ -17,7 +17,6 @@ andrew <- list(
 ```
 
 ### My current work:
-- Finishing a mathematics degree at UNC Charlotte.
 - Developing [`cbbdata`](https://cbbdata.aweatherman.com), a Flask-based API servicing 16 years of college basketball data + an accompanying R package.
 - Developing [`cbbplotR`](https://cbbplotr.aweatherman.com/articles/getting_started.html), an R package offering `ggplot2` geoms, scales, and elements + `gt` utility functions for plotting college basketball team and conference logos + player headshots.
 - [Creating college basketball visualizations](https://aweatherman.com/) for my Twitter audience
