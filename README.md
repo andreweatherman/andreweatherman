@@ -1,5 +1,4 @@
 <h2> Hi, I'm Andrew Weatherman! <img src="https://media2.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif?cid=ecf05e47zfc7rf27qsdfw0nnqcb9uwj0si5yifzqwa04t3mz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="andrew_cooper.png" width="230">
 <p><em>Public Policy alumnus of <a href="https://duke.edu">Duke University</a></br>Former student manager for <a href="https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html">Duke Men's Basketball</a></em></p>
 
 I currently work as the Coordinator of Coaching Analytics for the New York Knicks -- so much of my public work, including `cbbdata`, `cbbplotR`, my Substack, and my Twitter, is **no longer maintained or active.**
