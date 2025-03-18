@@ -2,7 +2,7 @@
 <img align='right' src="andrew_cooper.png" width="230">
 <p><em>Public Policy alumnus of <a href="https://duke.edu">Duke University</a></br>Former student manager for <a href="https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html">Duke Men's Basketball</a></em></p>
 
-I currently work as the Coordinator of Coaching Analytics for the New York Knicks -- so much of my public work, including `cbbdata`, `cbbplotR`, my Substack, and my Twitter, is no longer maintained or active.
+I currently work as the Coordinator of Coaching Analytics for the New York Knicks -- so much of my public work, including `cbbdata`, `cbbplotR`, my Substack, and my Twitter, is **no longer maintained or active.**
 
 ### My past work:
 - [`gtUtils`](https://gtutils.aweatherman.com/), an R package providing themes and extensions to the popular `gt` package.
